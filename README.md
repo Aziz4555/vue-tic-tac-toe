@@ -1,5 +1,7 @@
 # vue-tic-tac-toe
 
+**Création du jeux tic-tac-toe à l'aide de Vue js 3 et son API de composition**
+
 ## Project setup
 ```
 npm install
